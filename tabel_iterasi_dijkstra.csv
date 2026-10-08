@@ -1,0 +1,7 @@
+﻿iterasi,simpul_dipilih,simpul_tetap,jarak_A,jarak_B,jarak_C,jarak_D,jarak_E,jarak_F
+1,A,A,0,4,6,INF,INF,INF
+2,B,"A, B",0,4,6,13,INF,6
+3,C,"A, B, C",0,4,6,13,INF,6
+4,F,"A, B, C, F",0,4,6,13,INF,6
+5,D,"A, B, C, D, F",0,4,6,13,22,6
+6,E,"A, B, C, D, E, F",0,4,6,13,22,6
